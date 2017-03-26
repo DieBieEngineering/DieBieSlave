@@ -225,83 +225,252 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document12]
+DocumentPath=DB10012_DieBieSlave.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SB10012_UniversalSlave\NC Drill\DB10012_UniversalSlave.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\NC Drill\DB10012_UniversalSlave.DRR
+DocumentPath=Project Outputs for DB10012_UniversalSlave\NC Drill\DB10012_UniversalSlave.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.EXTREP
+DocumentPath=Project Outputs for Free Documents\NC Drill\DB10012_UniversalSlave.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G1
+DocumentPath=Project Outputs for SB10012_UniversalSlave\NC Drill\DB10012_UniversalSlave.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G2
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G3
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G4
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBL
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBO
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.G1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBP
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBS
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GKO
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.G2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTL
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTO
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G3
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTP
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.G3
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTS
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G3
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\NC Drill\DB10012_UniversalSlave.LDP
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G4
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.REP
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.G4
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.RUL
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.G4
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\NC Drill\DB10012_UniversalSlave.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\NC Drill\DB10012_UniversalSlave.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.REP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.REP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Free Documents\Gerber\DB10012_UniversalSlave.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for SB10012_UniversalSlave\Gerber\DB10012_UniversalSlave.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for DB10012_UniversalSlave\NC Drill\DB10012_UniversalSlave.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Free Documents\NC Drill\DB10012_UniversalSlave.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument58]
 DocumentPath=Project Outputs for SB10012_UniversalSlave\NC Drill\DB10012_UniversalSlave.TXT
 DItemRevisionGUID=
 
