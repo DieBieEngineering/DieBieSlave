@@ -57,26 +57,23 @@ The DieBieSlave is designed in such a way that it is easy to manufacture and has
 * The +3V3 power supply  can deliver up to 200mA
 
 # Realisation
-. 
+As stated in the introduction the DieBieSlave is a universal EtherCAT slave implementation that will always need a daughter board supplying the DieBieSlave with information that should be put on the BUS. An example DieBieSlave and daughter board implementation is given here:
+![alt text](Binaries/Images/DieBieSlave_V0_2_07.jpg "Daughter board and DieBieSlave separated")
+![alt text](Binaries/Images/DieBieSlave_V0_2_08.jpg "Daughter board and DieBieSlave connected")
+As seen the daughter board can be anything from standard perforated prototype board up to a custom designed board carrying the sensor. 
 
-#### Power-on state management
-Temp
-* Benefits
-
-   Temp
-* Drawbacks
-
-   Temp
+#### LAN9252 vs ET1100
+Altrough the LAN9252 seems a perfect replacement for the ET1100 with its two embedded phy's, the QFN package and its low amount of external components it has a big drawback on the software side. Whilst the ET1100 has a transparant interface to its internal RAM over SPI the LAN9252 has not and needs some form of adres translation that prevents large chunks of (PDO) data to be written in a single block, this prevents the use of DMA syncing between uC and LAN9252. The only alternative is rather software labour intensive (the adres translation needs to be done in software) compared to its DMA alternative. This is no deal breaker for sensor acquisition (sensors need very little processor power) but will be a drawback in realtime systems like motor controllers.
 
 #### Used technology
 The IC's used with their corresponding functionality:
-* LTC6803-2 -> Battery stack cell voltage monitor.
-* STM32F303 -> Main microcontroller.
-* ISL28022 -> Pack voltage and current measurement.
-* BQ76200 -> Height side FET driver for LOAD+ CHARGE+ and Pre-charge switch driving.
-* LM5165 -> SMPS Buck converter, converting the pack voltage to +3.3V.
-* ISO1050 -> isolated CAN-Bus transceiver.
-* CP2104-F03 -> USB to serial converter for bootloader based firmware updates and debugging.
+* STM32F303RET6 -> Main microcontroller.
+* LAN9252/ML -> EtherCAT slave controller with build-in phy's.
+* M24C16-WMN6P -> EEPROM for LAN9252
+* LM25011MY/NOPB -> DC power input to +5V converter.
+* LMR10510XMFE/NOPB -> +5V to +3V3 converter.
+* 74980111211 -> RJ45 connectors with integrated magnetics.
+* CP2104-F03-GM -> USB serial converter for bootloader and general serial communication.
 
 ![alt text](Binaries/Images/DieBieSlave_V0_2_06.jpg "DieBieSlave V0.2 Dual PCB picture")
 ![alt text](Binaries/Images/DieBieSlave_V0_2_02.jpg "DieBieSlave V0.2 Bottom overview")
@@ -87,6 +84,7 @@ The IC's used with their corresponding functionality:
 # Example usage
 #### Initial testing of LAN9252 functionallity
 In this video TwinCAT recognises two EtherCAT (the DieBieSlave's prototypes) interfaces but is unable to initialize them (due to the lack of proper configuration in EEPROM). This demo does however demonstrate all Phy's, ASIC and power supplies on the prototype are working.
+
 [![VIDEO01](http://img.youtube.com/vi/mphTqMZIZoA/0.jpg)](http://www.youtube.com/watch?v=mphTqMZIZoA)
 
 #### NunChuck to EtherCAT
