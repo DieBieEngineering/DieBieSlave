@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [DB10012_UniversalSlave.PcbDoc]
+   Generated File[DB10012_UniversalSlave.GTL]
+   Generated File[DB10012_UniversalSlave.G1]
+   Generated File[DB10012_UniversalSlave.G2]
+   Generated File[DB10012_UniversalSlave.G3]
+   Generated File[DB10012_UniversalSlave.G4]
+   Generated File[DB10012_UniversalSlave.GBL]
+   Generated File[DB10012_UniversalSlave.GTO]
+   Generated File[DB10012_UniversalSlave.GTP]
+   Generated File[DB10012_UniversalSlave.GTS]
+   Generated File[DB10012_UniversalSlave.GBS]
+   Generated File[DB10012_UniversalSlave.GBP]
+   Generated File[DB10012_UniversalSlave.GBO]
+   Generated File[DB10012_UniversalSlave.GKO]
+   Generated File[DB10012_UniversalSlave.GM1]
+   Generated File[DB10012_UniversalSlave.RUL]
+   Generated File[DB10012_UniversalSlave.EXTREP]
+   Generated File[DB10012_UniversalSlave.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 19:19:43 On 26-Mar-17

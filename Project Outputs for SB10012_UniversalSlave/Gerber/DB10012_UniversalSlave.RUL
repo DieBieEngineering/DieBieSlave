@@ -1,6 +1,0 @@
-DRC Rules Export File for PCB: C:\Projecten\DieBieSlave\Github\Hardware\DB10012_UniversalSlave.PcbDoc
-RuleKind=Clearance|RuleName=ClearancePolygon|Scope=Board|Minimum=9.84
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.92
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
