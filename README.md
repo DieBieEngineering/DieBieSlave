@@ -25,7 +25,7 @@ On the bottom:
 Both sides:
 The holes on both edges of the DieBieSlave interface to all exposed (I2C, SPI, UART, analog, digital and CAN) peripherals on the STM32F303RET6 and should be connected to the desired target sensor. Standard 2.54mm headers can be soldered to both sides of the DieBieSlave allowing the use of standard 2.54mm male/female headers to connect standaard prototype board to either the small area on top or the full area on the bottom (realising either a compact or extensive interface). The board connected to the pin on te side that interfaces to a sensor is called a daughter board.
 
-More details can be found in the schematic [here](DB10012_UniversalSlave.PDF).
+More details can be found in the schematic [here](/Project%20Outputs%20for%20DB10012_UniversalSlave/DB10012_DieBieSlave.PDF).
 
 ### Latest hardware release (production files)
 
