@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [DB10012_IMU.PcbDoc]
+   Generated File[DB10012_IMU.GTL]
+   Generated File[DB10012_IMU.GBL]
+   Generated File[DB10012_IMU.GTO]
+   Generated File[DB10012_IMU.GTS]
+   Generated File[DB10012_IMU.GBS]
+   Generated File[DB10012_IMU.GBO]
+   Generated File[DB10012_IMU.GKO]
+   Generated File[DB10012_IMU.RUL]
+   Generated File[DB10012_IMU.EXTREP]
+   Generated File[DB10012_IMU.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 01:47:39 On 24-7-2017

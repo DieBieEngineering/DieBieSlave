@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=DB10012_UniversalSlave.PrjPcb
 [Project2]
 ProjectPath=DB10012_GyroNunchuck.PrjPcb
+[Project3]
+ProjectPath=DB10012_IMU.PrjPcb
