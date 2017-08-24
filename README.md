@@ -86,7 +86,6 @@ The IC's used with their corresponding functionality:
 Interfacing a Nun-chuck controller and MPU9250 sensors with EtherCAT:
 
 [![VIDEO01](http://img.youtube.com/vi/i7gFqLQb0EA/0.jpg)](http://www.youtube.com/watch?v=i7gFqLQb0EA)
-https://www.youtube.com/watch?v=i7gFqLQb0EA
 
 #### More pictures
 ![alt text](Binaries/Images/DieBieSlave_V0_2_09.jpg "NunChuck slave and dual MPU9250 slave")
