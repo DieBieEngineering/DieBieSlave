@@ -82,12 +82,15 @@ The IC's used with their corresponding functionality:
 ![alt text](Binaries/Images/DieBieSlave_V0_2_05.jpg "DieBieSlave V0.2 Bottom component overview")
 
 # Example usage
-#### Initial testing of LAN9252 functionallity
-In this video TwinCAT recognises two EtherCAT (the DieBieSlave's prototypes) interfaces but is unable to initialize them (due to the lack of proper configuration in EEPROM). This demo does however demonstrate all Phy's, ASIC and power supplies on the prototype are working.
+#### MPU9250/NunChuck to EtherCAT
+Interfacing a Nun-chuck controller and MPU9250 sensors with EtherCAT:
 
-[![VIDEO01](http://img.youtube.com/vi/mphTqMZIZoA/0.jpg)](http://www.youtube.com/watch?v=mphTqMZIZoA)
+[![VIDEO01](http://img.youtube.com/vi/i7gFqLQb0EA/0.jpg)](http://www.youtube.com/watch?v=i7gFqLQb0EA)
+https://www.youtube.com/watch?v=i7gFqLQb0EA
 
-#### NunChuck to EtherCAT
-Interfacing a Nun-chuck controller with EtherCAT:
-
-VIDEO TO BE MADE
+#### More pictures
+![alt text](Binaries/Images/DieBieSlave_V0_2_09.jpg "NunChuck slave and dual MPU9250 slave")
+![alt text](Binaries/Images/DieBieSlave_V0_2_10.jpg "NunChuck slave and dual MPU9250 slave")
+![alt text](Binaries/Images/DieBieSlave_V0_2_11.jpg "View of a Shield example")
+![alt text](Binaries/Images/DieBieSlave_V0_2TwinCAT_01.png "TwinCAT screenshot of both slave examples connected")
+![alt text](Binaries/Images/DieBieSlave_V0_2SlaveEditor_01.png "Slave editor view of the SOES configuration")
