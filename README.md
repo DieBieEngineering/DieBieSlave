@@ -1,4 +1,4 @@
-DieBieMS - Hardware
+DieBieSlave - Hardware
 ===
 # Introduction
 During my work at the University of Twente at the faculty of Biomechanical Engineering I gained interest in EtherCAT and its applications. I learned that many of the projects at this faculty (and other faculties in the field of robotics) desire a custom coupling between a unique sensor and EtherCAT, a coupling that is not always easy to realise with the existing slaves. During my work I helped designing an EtherCAT slave based on the ET1100, this ASIC comes in a BGA package, needs two external ethernet phy's and lots of passive components. The ET1100 is more than capable of coupling all desired applications to EtherCAT however in some applications it's to cumbersome to implement knowing that the LAN9252 can do almost the same and has the ASIC + 2 Phy's intergrated in one QFN package. 
